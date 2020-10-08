@@ -1,1 +1,3 @@
-![Screenshot](https://screenshotlayer.com/php_helper_scripts/scl_api.php?secret_key=c60edcb7718f7294381dcf4891ba240c&url=https://github.com/mukaschultze/)
+<a href="https://github.com/rsaz/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsaz&theme=onedark" />
+</a>
